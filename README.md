@@ -1,7 +1,7 @@
 ![logo](https://github.com/padamdamai/padamdamai/blob/master/coverpage.jpeg)
 <h1 align="center">Hi 👋, I'm Padam Damai</h1>
 <h3 align="center">Focusing for Full stack developer & i am from Nepal</h3>
-<img align="right" alt="coding" witdh="400" src="https://i.gifer.com/GYny.gif">
+<img align="right" alt="coding" witdh="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FGYny&psig=AOvVaw2SuIDZqyXihyk06ayUq5C4&ust=1714201572735000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC3n6Cp34UDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padamdamai&label=Profile%20views&color=0e75b6&style=flat" alt="padamdamai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=padamdamai" alt="padamdamai" /></a> </p>
